@@ -1,0 +1,9 @@
+admin, Assign initial tasks, Use task_manager.py to assign each team member with appropriate tasks, 2019-10-10, 2019-10-13, no
+sannie, Clean Display Window, Clean the display window for new presentation, 2025-06-15, 2025-06-30, yes
+tilda, Depsit Cash, Take November's cashup to deposit at bank, 2025-11-07, 2025-11-15, no
+tilda, Finance meeting, Meeting for November finance discussions, 2025-11-07, 2025-11-24, no
+sannie, Finance meeting, Meeting for October finance discussions, 2025-10-07, 2025-11-23, yes
+liesbet, Christmas Party, Organise party for the team , 2025-11-10, 2025-12-10, no
+pieter, Renew application, Renew rental contract for 2026, 2025-11-11, 2025-11-16, no
+jannie, Year planning 2026, Plan for the first semester of 2026, 2025-11-18, 2025-12-15, no
+admin, Safety review, Check with all users to update passwords, 2025-11-18, 2025-11-28, no
