@@ -3,3 +3,5 @@ I started the HyperionDev Data Science Bootcamp in September 2025. This portfoli
 The task_manager project is to show my Python programming skills. 
 
 The book-clerk task showcases basic SQLite commands.
+
+The EDA report illustrates data analysis and visualisations using pandas, NumPy and Tableau.
