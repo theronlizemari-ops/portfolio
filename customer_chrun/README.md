@@ -5,7 +5,9 @@ This project uses the Telco Customer Churn dataset to build machine learning mod
 The workflow includes data cleaning, exploratory data analysis (EDA), feature scaling, model training, and model evaluation.
 
 Two supervised learning models were implemented:
+
 Logistic Regression
+
 Random Forest Classifier
 
 EDA was conducted using visualisations such as a correlation heatmap to explore relationships between variables and identify factors associated with churn.
