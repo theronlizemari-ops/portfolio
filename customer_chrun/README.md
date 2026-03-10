@@ -1,4 +1,4 @@
-Customer Churn Prediction (Supervised Machine Learning)
+**Customer Churn Prediction (Supervised Machine Learning)**
 
 This project uses the Telco Customer Churn dataset to build machine learning models that predict whether a customer will leave a service.
 
@@ -15,7 +15,7 @@ EDA was conducted using visualisations such as a correlation heatmap to explore 
 Model performance was evaluated using confusion matrices and accuracy scores. In this case, the Logistic Regression model outperformed the Random Forest model in predicting customer churn.
 
 Libraries used:
-pandas
-matplotlib
-seaborn
+pandas,
+matplotlib,
+seaborn,
 scikit-learn
